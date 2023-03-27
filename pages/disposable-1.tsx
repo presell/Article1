@@ -3,7 +3,6 @@
 import * as React from "react";
 import * as ph from "@plasmicapp/react-web/lib/host";
 
-import { ScreenVariantProvider } from "../components/plasmic/masteri_sparq/PlasmicGlobalVariant__Screen";
 import { PlasmicDisposableCollection35 } from "../components/plasmic/masteri_sparq/PlasmicDisposableCollection35";
 import { useRouter } from "next/router";
 
